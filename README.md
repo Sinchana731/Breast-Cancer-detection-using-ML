@@ -60,7 +60,7 @@ Each model is evaluated using:
 
 1. Clone the repository:
 ```bash
-git clone <-repo-link>
+git clone <repo-link>
 Install required libraries:
 pip install numpy pandas matplotlib scikit-learn xgboost
 Run the script:
